@@ -1,3 +1,4 @@
 testfile200mb filter=lfs diff=lfs merge=lfs -text
 testfile500mb filter=lfs diff=lfs merge=lfs -text
 testfileanother500mb filter=lfs diff=lfs merge=lfs -text
+testfileanother200mb filter=lfs diff=lfs merge=lfs -text
